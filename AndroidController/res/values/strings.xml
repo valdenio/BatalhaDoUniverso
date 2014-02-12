@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Batalha do Universo Beta</string>
+    <string name="title_activity_bluetooth">BluetoothActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="tutorial">Você deve iniciar o jogo no computador para poder utilizar esse aplicativo, que funciona como um controle para a sua nave.\n\n
+        Após selecionar a opção jogar no menu principal, você deverá selecionar o seu computador, dentre uma lista de computadores visíveis que irá aparecer.\n\n
+        Quando a conexão Bluetooth for estabelecida, aparecerão setas e um botao de confirmar na tela, que permitirão que você navegue pelas opções opções do menu do jogo.\n\n
+        Ao iniciar o jogo, você poderá comandar a nave espacial na tela do computador, apenas movimentando o seu celular como se fosse o manche da nave!</string>
+    <string name="credits">Jogo desenvolvido por Valdênio Paulino de Melo, sob orientação do professor Alexandre Garcia de Oliveira, para graduação no curso de Tecnologia em Jogos Digitais na FATEC São Caetano do Sul</string>
+    <string name="search_computers">Procurar computadores</string>
+    <string name="searching">Procurando...</string>
+    <string name="menu_options_play">JOGAR</string>
+    <string name="menu_options_tutorial">TUTORIAL</string>
+    <string name="menu_options_credits">CRÉDITOS</string>
+    <string name="menu_options_exit">SAIR</string>
+    <string name="prompt_exit">Tem certeza que você deseja sair do jogo?</string>
+    <string name="bluetooth_denied_message">O Bluetooth precisa ser ativado para continuar!</string>
+    <string name="toast_exit_confirm">Pressione novamente para sair</string>
+    <string name="bt_connection_failed">A tentativa de conexão falhou</string>
+    <string name="bt_connection_canceled">Tentativa de conexão cancelada</string>
+    <string name="bt_connection_closed">Conexão encerrada</string>
+    <string name="connection_device">Conectando-se com %s ...</string>
+
+</resources>
